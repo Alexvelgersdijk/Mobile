@@ -1,0 +1,112 @@
+body {
+		
+}
+section {
+		max-width: 360px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+header {
+		
+}
+nav {
+		background-color: grey;
+		margin-left: 0px;
+}
+article {
+		
+}
+footer {
+	
+}
+img {
+		width: 350px;
+		height: 150px;
+		object-fit: cover;
+		padding: 5px;
+}
+h1 {
+		font-family: "Berlin Sans FB";
+		font-size: 220%;
+		font-weight: 500; 
+		color:#FFFFFF;
+		text-align: center;
+		padding-top: 15px; 
+		padding-bottom: 15px;
+		margin-top: 0;
+		margin-bottom: 0;
+		background-image: url("companylogoBG.jpg");
+		background-size: 100% 150%;
+}
+h2 {
+		font-family: "Arial";
+		font-size: 150%;
+		font-weight: normal; 
+		color:#FFFFFF;
+		text-align: center;
+		background-color: #2699FB;
+		padding-top: 5px; 												
+		padding-bottom: 5px;
+		padding-right: 40px;
+		padding-left: 40px;
+		margin-top: 0;
+		margin-bottom: 0;
+	
+}
+h3 {
+		float: right;
+		color: white;
+		background-color: black;
+		margin-top: 0;
+		margin-bottom: 0;
+		text-align: right;
+		padding: 10px;
+		
+}
+p {
+		font-family: "Arial";
+		font-size:;
+		font-weight: normal; 
+		color:#FFFFFF;
+		text-align: center;
+		background-color: #000000;
+		padding-top: 10px; 
+		padding-bottom: 10px;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+p.tijd {
+		border: 2px solid blue;
+		border-radius: 12px;
+		width: 30px;
+		color: white;
+		background: blue;
+		padding: 2px;
+		text-align: center;
+		float: left;	
+		margin-top: 7.5px;
+		margin-left: 7.5px;
+}
+h2.Zwart {
+		background-color: black;
+		color: black;
+		height: 32px;
+}
+btn-group button {
+    background-color: white; 
+    border: 1px solid white; 
+    display: inline-block;
+   	height: 10px;
+    margin: 5px;
+    width: 20px;
+    display: block; 
+	
+}
+btn-group button:not(:last-child) {
+    border-bottom: none; 
+}
+
+btn-group button:hover {
+    
